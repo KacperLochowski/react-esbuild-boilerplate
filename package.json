@@ -1,0 +1,19 @@
+{
+  "name": "react-boilerplate",
+  "version": "1.0.0",
+  "description": "React boilerplate with esbuild bundler ⚛",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/KacperLochowski/react-boilerplate#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KacperLochowski/react-boilerplate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KacperLochowski/react-boilerplateissues"
+  }
+}
