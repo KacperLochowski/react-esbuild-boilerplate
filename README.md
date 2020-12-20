@@ -1,2 +1,3 @@
-# react-esbuild-boilerplate
+# react-boilerplate
+
 React boilerplate with esbuild bundler ⚛
