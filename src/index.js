@@ -1,4 +1,4 @@
-import "./index.css";
+import "./assets/styles/tailwind.css";
 
 console.log("Hello Webpack!");
 
