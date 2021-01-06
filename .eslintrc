@@ -10,7 +10,7 @@
     "es2021": true,
     "node": true
   },
-  "extends": ["plugin:react/recommended", "google"],
+  "extends": ["plugin:react/recommended", "google", "prettier", "prettier/react"],
   "parserOptions": {
     "ecmaFeatures": {
       "jsx": true
@@ -18,8 +18,11 @@
     "ecmaVersion": 12,
     "sourceType": "module"
   },
-  "plugins": ["react"],
+  "plugins": ["react", "prettier"],
   "rules": {
+    "prettier/prettier": "error",
+    "arrow-body-style": "off",
+    "prefer-arrow-callback": "off",
     "indent": ["error", 2],
     "semi": ["error", "never"],
     "comma-dangle": [
