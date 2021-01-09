@@ -11,4 +11,4 @@ dist
 *.md
 *.log
 *.lock
-*.js
+webpack.**
