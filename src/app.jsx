@@ -154,8 +154,10 @@ const App = () => (
               <span className='block text-indigo-600 xl:inline'>online business</span>
             </h1>
             <p className='mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0'>
-              Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo. Elit sunt amet
-              fugiat veniam occaecat fugiat aliqua.
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus debitis quos modi est error consequuntur
+              sint odio. Eos deserunt suscipit quam itaque consequuntur illo saepe similique aliquid laborum iste
+              adipisci rem error necessitatibus reprehenderit minima nihil ex neque ipsum esse explicabo molestiae
+              reiciendis, blanditiis accusantium! Error aspernatur rem sed fuga!
             </p>
             <div className='mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start'>
               <div className='rounded-md shadow'>
